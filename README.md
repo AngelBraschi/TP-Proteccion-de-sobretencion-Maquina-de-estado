@@ -9,7 +9,7 @@ Mi sistema representa un protector de sobretensiion configurable. Al comienzo se
 
 **Maquina de estado:**
 
-![ScreenShot](https://www.iteramos.com/pregunta/53479/la-imagen-no-aparece-en-readmemd-en-githubhttps://github.com/AngelBraschi/TP-Proteccion-de-sobretencion-Maquina-de-estado/blob/master/imgur/Maquina%20de%20estado.png)
+https://www.iteramos.com/pregunta/53479/la-imagen-no-aparece-en-readmemd-en-githubhttps://github.com/AngelBraschi/TP-Proteccion-de-sobretencion-Maquina-de-estado/blob/master/imgur/Maquina%20de%20estado.png
 
 
 Donde:
