@@ -1,2 +1,2 @@
-# TP-Proteccion-de-sobretencion-Maquina-de-estado
+# TP-Proteccion-de-sobretension-Maquina-de-estado
 Maquina de estado
