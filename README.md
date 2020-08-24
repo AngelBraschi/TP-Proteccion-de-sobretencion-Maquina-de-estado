@@ -9,8 +9,7 @@ Mi sistema representa un protector de sobretensiion configurable. Al comienzo se
 
 **Maquina de estado:**
 
-![Maquina de estado](D:\ANGEL\utn\Segunfo\informatica  II\Trabajo Practico\TP-Proteccion-de-sobretencion-Maquina-de-estado\imgur\Maquina de estado.png)
-
+https://github.com/AngelBraschi/TP-Proteccion-de-sobretencion-Maquina-de-estado/blob/master/imgur/Maquina%20de%20estado.png
 Donde:
 
 ·     V es la tensión de entrada
